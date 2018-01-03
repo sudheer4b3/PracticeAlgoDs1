@@ -8,10 +8,10 @@ public class LCA {
             return null;
         }
         if(root.data > Math.max(n1,n2)){
-            return (root.left,n1,n2);
+            return LCABst(root.left,n1,n2);
         }
         if(root.data < Math.min(n1,n2)){
-            return (root.right,n1,n2);
+            return LCABst(root.right,n1,n2);
         }
         return  root;
 

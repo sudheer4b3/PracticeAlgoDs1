@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b71e191-acee-4243-b5b8-940d607b7cd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PracticeAlgoDs1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/BST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/BSTSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/Heap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/IsBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/SameTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/Graph/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/search/FibonacciSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/search/InsertionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/search/SelectionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/HeapApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java" afterPath="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,16 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/search/SelectionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/search/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,21 +67,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LCA.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LCA.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="-6">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Heap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Heap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/Heap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#212#213#0" expanded="true" />
@@ -116,11 +95,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="HeapApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/HeapApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="LargestBSTInBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -190,10 +179,11 @@
         <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/BSTSearch.java" />
         <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/SameTree.java" />
         <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/IsBST.java" />
-        <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/ssk/algo/Graph/Graph.java" />
-        <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java" />
         <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/Heap.java" />
+        <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/HeapApp.java" />
+        <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java" />
       </list>
     </option>
   </component>
@@ -455,6 +445,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -469,7 +460,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Brazil" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -550,14 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/Graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -601,18 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/Heap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#212#213#0" expanded="true" />
@@ -622,6 +597,30 @@
             <element signature="e#1994#1995#0" expanded="true" />
             <element signature="e#2033#2034#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/HeapApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LargestBSTInBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ssk/algo/BinaryTrees/LCA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
